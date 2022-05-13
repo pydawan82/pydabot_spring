@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.pydawan</groupId>
-	<artifactId>pydabot</artifactId>
+	<artifactId>pydabot_spring</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>pydabot</name>
 	<description>Demo project for Spring Boot</description>
