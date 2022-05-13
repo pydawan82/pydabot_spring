@@ -1,4 +1,4 @@
-package com.pydawan.pydabot.module.hello
+package com.pydawan.pydabot_spring.module.hello
 
 import org.springframework.web.bind.annotation.GetMapping
 import org.springframework.web.bind.annotation.RestController
